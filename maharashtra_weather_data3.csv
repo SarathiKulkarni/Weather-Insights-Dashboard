@@ -1,0 +1,102 @@
+City,Temperature (°C),Min_Temperature (°C),Max_Temperature (°C),Feels_Like (°C),Pressure (hpa),Weather,Humidity (%),Wind Speed (m/s),TimeZone (sec)
+Mumbai,29.99,29.99,29.99,31.7,1010,smoke,54,3.09,19800
+Mumbai,29.99,29.99,29.99,31.7,1010,smoke,54,3.09,19800
+Andheri,10.47,10.47,10.47,9.79,1014,clear sky,85,0.99,20700
+Borivali,29.95,29.95,29.95,31.63,1010,smoke,54,3.09,19800
+Pune,27.53,27.53,27.53,28.26,1011,broken clouds,54,2.09,19800
+Pimpri-Chinchwad,27.66,27.66,27.66,28.41,1011,overcast clouds,54,1.34,19800
+Haveli Lakha,17.69,17.69,17.69,15.88,1013,clear sky,14,2.64,18000
+Mulshi,25.07,25.07,25.07,25.3,1011,overcast clouds,64,0.82,19800
+Khed,26.64,26.64,26.64,26.64,1010,few clouds,73,0.55,19800
+Aundh,26.31,26.31,26.31,26.31,1011,overcast clouds,52,1.1,19800
+Junnar,26.37,26.37,26.37,26.37,1012,overcast clouds,58,1.03,19800
+Nagpur,27.01,27.01,27.01,29.22,1011,haze,74,1.54,19800
+Kamptee,27.17,27.17,27.17,27.58,1011,overcast clouds,50,0.11,19800
+Narkhed,25.3,25.3,25.3,25.17,1012,overcast clouds,49,2.75,19800
+Umred,27.3,27.3,27.3,27.44,1011,overcast clouds,46,0.81,19800
+Saoner,26.4,26.4,26.4,26.4,1011,overcast clouds,55,0.77,19800
+Nashik,24.6,24.6,24.6,24.71,1012,overcast clouds,61,3.23,19800
+Nāndgaon,27.82,27.82,27.82,28.51,1011,overcast clouds,53,3.26,19800
+Dindori,15.84,15.84,15.84,14.81,1014,clear sky,51,1.61,19800
+Trimbak,22.78,22.78,22.78,22.78,1012,scattered clouds,64,2.63,19800
+Igatpuri,24.78,24.78,24.78,24.88,1011,scattered clouds,60,3.3,19800
+Aurangabad,25.05,25.05,25.05,25.78,1012,haze,83,0,19800
+Jālna,24.83,24.83,24.83,25.17,1012,overcast clouds,69,2.28,19800
+Paithan,27.74,27.74,27.74,28.69,1011,overcast clouds,56,1.24,19800
+Sillod,23.22,23.22,23.22,23.53,1012,scattered clouds,74,2.3,19800
+Kannad,24.21,24.21,24.21,24.44,1012,broken clouds,67,2.42,19800
+Kolhāpur,27.31,27.31,27.31,28.24,1011,overcast clouds,57,0.66,19800
+Shirol,27.99,27.99,27.99,28.71,1011,overcast clouds,53,1.24,19800
+Solapur,29.92,29.92,29.92,30.08,1010,overcast clouds,44,1.97,19800
+Barshi,28.69,28.69,28.69,28.95,1011,overcast clouds,47,4.43,19800
+Karmāla,28.41,28.41,28.41,28.73,1011,overcast clouds,48,4.48,19800
+Pandharpur,29.29,29.29,29.29,29.55,1010,broken clouds,46,1.37,19800
+Thāne,29.95,29.95,29.95,31.63,1010,smoke,54,3.09,19800
+Kalyān,29.72,29.72,29.72,30.64,1010,few clouds,50,2.28,19800
+Ulhasnagar,29.58,29.58,29.58,30.59,1010,scattered clouds,51,2.12,19800
+Ambernath,29.06,29.06,29.06,30.12,1010,scattered clouds,53,1.79,19800
+Badlapur,28.38,28.38,28.38,29.9,1010,scattered clouds,59,1.19,19800
+Bhiwandi,29.43,29.43,29.43,30.37,1010,clear sky,51,2.7,19800
+Satara,26.33,26.33,26.33,26.33,1011,overcast clouds,56,1.45,19800
+Karad,27.01,27.01,27.01,27.88,1011,light rain,57,1.06,19800
+Khatav,27.24,27.24,27.24,27.79,1011,overcast clouds,52,1.75,19800
+Wai,25.55,25.55,25.55,25.73,1012,broken clouds,60,1.13,19800
+Phaltan,27.25,27.25,27.25,27.73,1011,scattered clouds,51,2.06,19800
+Sawantwadi,25.11,25.11,25.11,25.97,1010,scattered clouds,88,0.69,19800
+Kudāl,25.96,25.96,25.96,25.96,1010,scattered clouds,84,1.07,19800
+Mālvan,27.84,27.84,27.84,31.42,1010,scattered clouds,78,1.88,19800
+Vengurla,27.19,27.19,27.19,30.27,1010,scattered clouds,81,1.68,19800
+Chānda,25.71,25.71,25.71,25.82,1011,few clouds,57,2.08,19800
+Ballarpur,25.76,25.76,25.76,25.96,1011,few clouds,60,1.64,19800
+Warora,26.69,26.69,26.69,27.19,1011,few clouds,51,2.1,19800
+Rājūra,25.67,25.67,25.67,25.91,1011,few clouds,62,1.45,19800
+Beed,27.36,27.36,27.36,28.38,1011,overcast clouds,58,1.87,19800
+Patoda,26.79,26.79,26.79,27.57,1011,overcast clouds,56,2.58,19800
+Georai,27.97,27.97,27.97,28.98,1011,overcast clouds,56,2.25,19800
+Kaij,26,26,26,26,1012,overcast clouds,59,2.92,19800
+Ashti,24.94,24.94,24.94,25.27,1011,broken clouds,68,2.99,19800
+Latur,26.65,26.65,26.65,26.65,1011,overcast clouds,57,2.69,19800
+Vic,14.51,13.27,14.51,13.79,1021,overcast clouds,68,1.52,3600
+Nilanga,27.21,27.21,27.21,27.82,1011,overcast clouds,53,4.26,19800
+Malkāpur,23.93,23.93,23.93,24.15,1012,few clouds,68,1.55,19800
+Chikhli,23.17,23.17,23.17,23.42,1012,broken clouds,72,2.1,19800
+Khāmgaon,24.45,24.45,24.45,24.65,1012,broken clouds,65,1.31,19800
+Shegaon,25.18,25.18,25.18,25.37,1011,overcast clouds,62,1.75,19800
+Jalgaon Jamod,23.82,23.82,23.82,23.93,1012,few clouds,64,0.64,19800
+Jālna,24.83,24.83,24.83,25.17,1012,overcast clouds,69,2.28,19800
+Badnapur,24.7,24.7,24.7,25.08,1012,overcast clouds,71,2.25,19800
+Partūr,25.45,25.45,25.45,25.75,1011,broken clouds,65,2.82,19800
+Mantha,25.15,25.15,25.15,25.44,1011,broken clouds,66,2.77,19800
+Ratnagiri,27.35,27.35,27.35,30.77,1010,broken clouds,82,2.15,19800
+Chiplūn,27.52,27.52,27.52,29.66,1010,broken clouds,69,0.82,19800
+Dapoli,25.76,25.76,25.76,26.45,1010,clear sky,79,2.89,19800
+Rājāpur,17.9,17.9,17.9,16.56,1013,broken clouds,31,2.42,19800
+Khed,26.64,26.64,26.64,26.64,1010,few clouds,73,0.55,19800
+Hingoli,24.79,24.79,24.79,25.18,1012,broken clouds,71,2.53,19800
+Kalamnūri,23.71,23.71,23.71,24.15,1012,scattered clouds,77,2.44,19800
+Wardha,27.23,27.23,27.23,27.78,1011,overcast clouds,52,0.84,19800
+Ārvi,25.96,25.96,25.96,25.96,1011,broken clouds,65,0.32,19800
+Deoli,19.06,19.06,19.06,17.75,1012,broken clouds,28,1.28,19800
+Kāranja,25.48,25.48,25.48,25.75,1012,scattered clouds,64,2.35,19800
+Yavatmal,26.49,26.49,26.49,26.49,1011,overcast clouds,55,0.83,19800
+Pusad,25.16,25.16,25.16,25.61,1012,broken clouds,72,0.97,19800
+Arni,25.24,25.24,25.24,25.93,1012,scattered clouds,81,2.27,19800
+Wani,26.94,26.94,26.94,27.48,1011,few clouds,52,2.58,19800
+Digras,26.34,26.34,26.34,26.34,1011,broken clouds,62,0.81,19800
+Akola,26.53,26.53,26.53,26.53,1011,overcast clouds,56,2.39,19800
+Pātūr,25.23,25.23,25.23,25.48,1012,overcast clouds,64,2.02,19800
+Telhāra,24.6,24.6,24.6,24.68,1012,broken clouds,60,2.34,19800
+Amrāvati,26.61,26.61,26.61,26.61,1011,overcast clouds,59,3,19800
+Morshi,25.77,25.77,25.77,25.68,1012,overcast clouds,49,3.42,19800
+Chāndūr Bāzār,26.34,26.34,26.34,26.34,1011,overcast clouds,48,3.76,19800
+Achalpur,25.99,25.99,25.99,25.99,1012,overcast clouds,51,2.91,19800
+Nandgaon Khandeshwar,26.64,26.64,26.64,26.64,1011,overcast clouds,62,2.17,19800
+Alibag,26.21,26.21,26.21,26.21,1010,broken clouds,83,4.77,19800
+Uran,29.98,29.98,29.98,35.73,1010,broken clouds,73,5.26,19800
+Panvel,30.04,30.04,30.04,33.97,1010,broken clouds,65,1.16,19800
+Karjat,26.5,26.5,26.5,26.5,1011,broken clouds,72,1.56,19800
+Khalapur,26.11,26.11,26.11,26.11,1010,broken clouds,78,1.39,19800
+Wāshīm,25.09,25.09,25.09,25.43,1012,overcast clouds,68,2.36,19800
+Khāmgaon,24.45,24.45,24.45,24.65,1012,broken clouds,65,1.31,19800
+Manora,25.22,25.22,25.22,25.36,1011,few clouds,60,1.33,19800
+Pusad,25.16,25.16,25.16,25.61,1012,broken clouds,72,0.97,19800
